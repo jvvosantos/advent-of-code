@@ -1,6 +1,3 @@
-const { count } = require('console');
-const { parse } = require('path');
-
 fs = require('fs');
 
 function parseLine(line) {
